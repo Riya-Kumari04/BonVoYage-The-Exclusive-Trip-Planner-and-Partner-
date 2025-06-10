@@ -5,7 +5,7 @@ The platform offers personalized travel itineraries, real-time updates, making i
 The user-friendly interface and community-driven features ensure a seamless and engaging journey from planning to execution.
 
 # ✅Modules successfully Completed✅
-# 👉Secure login & Account management.
+1. 👉Secure login & Account management.
 👉Destination and Hotel information.
 👉Personalised Day–Wise trip planning.
 👉UI Enhancements
