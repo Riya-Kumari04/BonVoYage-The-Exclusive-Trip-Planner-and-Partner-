@@ -5,13 +5,14 @@ The platform offers personalized travel itineraries, real-time updates, making i
 The user-friendly interface and community-driven features ensure a seamless and engaging journey from planning to execution.
 
 # ✅Modules successfully Completed✅
-1. 👉Secure login & Account management.
-👉Destination and Hotel information.
-👉Personalised Day–Wise trip planning.
-👉UI Enhancements
-👉Ability to add or remove destinations in day-wise planning.
-👉Interactive map with detailed route scheduling.
-👉Ratings and reviews system for community feedback.
-👉Reward vouchers and premium subscription access.
-👉Real-time notifications for weather and local events.
-👉Budget tracking for managing travel expenses.
+  👉Secure login & Account management.
+  👉Destination and Hotel information.
+  👉Personalised Day–Wise trip planning.
+  👉UI Enhancements
+  👉Ability to add or remove destinations in day-wise planning.
+  👉Interactive map with detailed route scheduling.
+  👉Ratings and reviews system for community feedback.
+  👉Reward vouchers and premium subscription access.
+  👉Real-time notifications for weather and local events.
+  👉Budget tracking for managing travel expenses.
+ 
