@@ -4,7 +4,7 @@ It fills the gap in the market by offering dynamic, personalized day-wise trip p
 The platform offers personalized travel itineraries, real-time updates, making it the go-to solution for those seeking customized travel experiences. 
 The user-friendly interface and community-driven features ensure a seamless and engaging journey from planning to execution.
 
-✅Modules successfully Completed✅
+# ✅Modules successfully Completed✅
 👉Secure login & Account management.
 👉Destination and Hotel information.
 👉Personalised Day–Wise trip planning.
